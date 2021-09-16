@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-Here's the link to the videos of ONL remote experiments:
+---
+
+Here are the videos played by OBS virtual camara and screen sharing during the experiments under campus and residential networks:
+
+https://drive.google.com/drive/folders/1nxsAJzkC-1cm2bf_MGK7FxsB2yoyKqaQ?usp=sharing
+
+---
+
+Here is the link to the videos of ONL remote experiments:
 
 Original video: https://drive.google.com/file/d/1eoWibsu4YtyyZigWOpVI6y74SItZ-cOG/view?usp=sharing
 
