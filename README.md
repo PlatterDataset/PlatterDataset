@@ -20,6 +20,9 @@ Shenzhen: https://drive.google.com/file/d/1th6Gr6yymh-TaxyCiAw2cBdJ4z4cEnNf/view
 
 Seoul: https://drive.google.com/file/d/1jwuLS6r7BoW3qCFak3k9XjlsIp77pFzP/view?usp=sharing
 
+Codes for features are in: https://github.com/PlatterDataset/feature
+Features include blur, noise, freeze and synchronization
+
 <!--
 **PlatterDataset/PlatterDataset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
