@@ -1,6 +1,6 @@
-每个json文件为一组下所有视频的计算结果。
-json文件的结构如下：
+Every json file is from the same human group who manually recorded either real-person or video playback received via software.
+The structure of a json file is as follows： 
 {
-  视频文件名: [[blur], [noise], [freeze]],
+  Video name: [[blur], [noise], [freeze]],
   ...
 }
